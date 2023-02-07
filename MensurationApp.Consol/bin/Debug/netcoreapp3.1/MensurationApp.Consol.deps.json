@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MensurationApp.Consol/1.0.0": {
+        "dependencies": {
+          "Mensuration.Logic": "1.0.0",
+          "Mensuration.Model": "1.0.0"
+        },
+        "runtime": {
+          "MensurationApp.Consol.dll": {}
+        }
+      },
+      "Mensuration.Logic/1.0.0": {
+        "dependencies": {
+          "Mensuration.Model": "1.0.0"
+        },
+        "runtime": {
+          "Mensuration.Logic.dll": {}
+        }
+      },
+      "Mensuration.Model/1.0.0": {
+        "runtime": {
+          "Mensuration.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MensurationApp.Consol/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Mensuration.Logic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Mensuration.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

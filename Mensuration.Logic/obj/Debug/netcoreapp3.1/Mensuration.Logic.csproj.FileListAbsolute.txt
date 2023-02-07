@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\Practice\MensurationApp\Mensuration.Logic\bin\Debug\netcoreapp3.1\Mensuration.Logic.deps.json
+C:\Users\HP\Desktop\Practice\MensurationApp\Mensuration.Logic\bin\Debug\netcoreapp3.1\Mensuration.Logic.dll
+C:\Users\HP\Desktop\Practice\MensurationApp\Mensuration.Logic\bin\Debug\netcoreapp3.1\Mensuration.Logic.pdb
+C:\Users\HP\Desktop\Practice\MensurationApp\Mensuration.Logic\bin\Debug\netcoreapp3.1\Mensuration.Model.dll
+C:\Users\HP\Desktop\Practice\MensurationApp\Mensuration.Logic\bin\Debug\netcoreapp3.1\Mensuration.Model.pdb
+C:\Users\HP\Desktop\Practice\MensurationApp\Mensuration.Logic\obj\Debug\netcoreapp3.1\Mensuration.Logic.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Practice\MensurationApp\Mensuration.Logic\obj\Debug\netcoreapp3.1\Mensuration.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Practice\MensurationApp\Mensuration.Logic\obj\Debug\netcoreapp3.1\Mensuration.Logic.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Practice\MensurationApp\Mensuration.Logic\obj\Debug\netcoreapp3.1\Mensuration.Logic.AssemblyInfo.cs
+C:\Users\HP\Desktop\Practice\MensurationApp\Mensuration.Logic\obj\Debug\netcoreapp3.1\Mensuration.Logic.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Practice\MensurationApp\Mensuration.Logic\obj\Debug\netcoreapp3.1\Mensuration.Logic.csproj.CopyComplete
+C:\Users\HP\Desktop\Practice\MensurationApp\Mensuration.Logic\obj\Debug\netcoreapp3.1\Mensuration.Logic.dll
+C:\Users\HP\Desktop\Practice\MensurationApp\Mensuration.Logic\obj\Debug\netcoreapp3.1\Mensuration.Logic.pdb
